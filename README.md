@@ -2,7 +2,9 @@
 A Multiplex Scheduling algorithm to maximize profit in a multiplex movie theatre under given constraints
 
 
-Constraints 
+Constraints :
+
+
  If the success rate of the movie goes below 60 % number of shows/screens need to be reduced. 
  
  If the success rate goes below 30 % movie is likely to be removed. This empties slots for movies with higher success, which increases our revenue
